@@ -1,0 +1,44 @@
+.button1{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+}
+.part{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.hi{
+    position: absolute;
+    top: -100px;
+    background-color: #2FCAC4;
+    margin: 30px auto;
+    border: 1px solid #999;
+    font-size: 40px
+}
+
+.mydiv{
+    background-color: #CCC;
+    color: #222;
+    font-size: 30px;
+    margin: 10px auto;
+    width: 500px;
+    border: 1px solid #999
+}
+
+.dim{
+    background: #CCC;
+    width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.dim-left{
+    background: #B50;
+    width: 490px;
+    float: left;
+}
+.dim-right{
+    background: #F65;
+    width: 300px;
+    float: right;
+}
